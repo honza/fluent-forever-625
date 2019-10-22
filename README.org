@@ -1,0 +1,5 @@
+#+TITLE: Fluent Forever 625 Basic Vocabulary Words
+
+In org-mode format
+
+[[https://fluent-forever.com/wp-content/uploads/2014/05/625-List-Thematic.pdf][Source]]
